@@ -1,0 +1,4 @@
+frisby-assets
+=============
+
+frisby-assets
